@@ -19,6 +19,11 @@ An automated system that allows users to submit leave requests, which are proces
 * SharePoint
 * Outlook
 
+## 🔗 Live Demo
+
+👉 [Click here to submit a leave request](https://forms.office.com/r/3Lt8mWCH5u?origin=lprLink)
+
+
 ---
 
 ## ⚙️ System Workflow
